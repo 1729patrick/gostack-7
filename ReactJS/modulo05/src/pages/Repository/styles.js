@@ -16,7 +16,7 @@ export const Owner = styled.header`
   align-items: center;
 
   a {
-    color: #7159c1;
+    color: #0c1e3f;
     font-size: 16px;
     text-decoration: none;
   }
@@ -76,7 +76,7 @@ export const IssueList = styled.ul`
           color: #444;
 
           &:hover {
-            color: #7159c1;
+            color: #0c1e3f;
           }
         }
 
