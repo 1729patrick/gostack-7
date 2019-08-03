@@ -1,6 +1,7 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { render, fireEvent } from "@testing-library/react";
+
 import TechList from "~/components/TechList";
 import { addTech } from "~/store/modules/techs/actions";
 
